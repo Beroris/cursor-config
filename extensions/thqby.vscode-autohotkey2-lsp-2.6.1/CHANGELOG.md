@@ -1,0 +1,1 @@
+See [github](https://github.com/thqby/vscode-autohotkey2-lsp/commits/main/) for details.

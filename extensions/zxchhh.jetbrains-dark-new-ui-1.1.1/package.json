@@ -1,0 +1,38 @@
+{
+	"name": "jetbrains-dark-new-ui",
+	"displayName": "JetBrains Dark (New UI)",
+	"description": "Endeavor to replicate the default dark theme from new versions of JetBrains IDEs (like PyCharm and WebStorm)",
+	"version": "1.1.1",
+	"license": "Unlicense",
+	"repository": "https://github.com/kotikotprojects/jetbrains-dark-new-ui",
+	"publisher": "zxchhh",
+	"engines": {
+		"vscode": "^1.93.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "JetBrains Dark (New UI)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/JetBrains Dark (New UI)-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "b2ab8b43-86c4-45d3-8dcb-02475acf4ff8",
+		"publisherId": "39235a8d-e205-459c-9963-a699d6582a42",
+		"publisherDisplayName": "zxchhh",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1740056577191,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 11489
+	}
+}
